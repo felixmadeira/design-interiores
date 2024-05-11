@@ -34,4 +34,12 @@ Considerações:
   A qualidade das sugestões dependerá da precisão da análise das imagens e da capacidade do algoritmo de interpretar as preferências do usuário.
   É importante garantir que as sugestões sejam realistas e adequadas ao orçamento do usuário.
   A ferramenta deve ser fácil de usar e oferecer uma experiência agradável ao usuário.
-  Com criatividade e as ferramentas certas, essa ideia tem grande potencial para revolucionar a forma como as pessoas decoram seus ambientes. �
+  Com criatividade e as ferramentas certas, essa ideia tem grande potencial para revolucionar a forma como as pessoas decoram seus ambientes.
+
+Observações:
+  Para melhorar o projeto seria importante as seguintes sugestões e que não foram implementadas por falta de tempo.
+  1. Visualização 3D: Integrar a ferramenta com um software de modelagem 3D para que o usuário visualize as sugestões no seu próprio ambiente com visualizações realistas do ambiente decorado.
+  2. Feedback do usuário:
+      Permitir que o usuário avalie as sugestões, fornecendo feedback sobre o que gostou ou não.
+      Utilizar o feedback para aprimorar o algoritmo e personalizar ainda mais as sugestões.
+  3. Frameworks de desenvolvimento web: Para construir a interface da ferramenta. 
