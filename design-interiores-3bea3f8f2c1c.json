@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "design-interiores",
+  "private_key_id": "3bea3f8f2c1c5b5998f6788a4ab997daead62591",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQyB+7qa0i1VQr\nDk16nWKHpJeeDF30noP39Qb9TfeChvNlr90sPqMqKPJ2FcN7IghjrY9fbqPH9slr\nSSTQkDCpW26YYa71tHGXcd8orT7F3ypvLf5jZuCgXmWTQlasCqYtzTmlQdaBNhOU\n9quiRjGZY7ByOX/2Hh4J1zzH6fiIZheXQgr3J57dxWtyBuf09+u4kTWVH7fVEbjO\nsbcgpayhHdkQ14GWedSnbheii5q5dRiW+HFQ4sojht1GyrKyQHbBV2dqh8V6of8Q\nw4D9ayF/PR/7C5oKzEj+FPrNlS6tbpnAXaGgYIJHIeoFsOG677TrFM0kbbuuoE6K\nBqs8zM8DAgMBAAECggEAPs813Lsa/xO2ko1m+bBHaA84HbASw/i8MuhgBexivb3j\nk3/oxdrCM3jGGIhLmsuOQo6AR3F9jDbOOZxzmtsGCK0dBHK+s+RpF+qF/DLCY7zT\ng0cO9NCKWzSK0lZuxKsfez/2S6UW5yBhm7rpv5PmcALxnit2N5Cv8L3z5yCYSFAD\nMGkawNNL69NTD3+sXAtmEg97W8gPxD3H41oI1zr8hoSXEgv010xQQ06m5eNcMjVv\nroqi5Wlemdu+VZmgfHLOkoqwmXjxsWScgM7gtoBWqqb/x9I8+D1vXaeFF+mwIral\nq76zex7fBoaqTK91468BrZLGA3BJ+dpFGyEowwUkAQKBgQDvfqw6R4SADEAVwCu5\naegB6gH25eDEjBDnpuWYdr1Bc3s1W8D5InwZm8yajf4L5ELNOseq9YxxglCXGWLF\n9OZKeT10BQiqD9fKkFubjoVH0e3mNXXUtDy++fF+rxmhRrX06+NNhLHvvm0i9hJl\nhAPO0NjsIY31oAx8qXnqRunBgwKBgQDfK5ctKWdvOqbz6WTRbEQv2gSAV9e0VT2H\nwMfBKOW4mPnFHvMFryIKaS8yiv48O1YbUXYXvgPeiN/zlEtvmGHEwK8TE4TiDDvR\n2pPQy8zntpWsXH0+/tvkc4HR0sYHtXluUQToawML/2nSLx9PCj5boSllAfYWotsX\ndIrVXp7EgQKBgGwEzztt/FYgsFrfFRmIqesLF527axhbMFi7TvzoOU4m/uA/JRd5\nNU37llnzRy0n4/Va2KnEHHcp1p2ABqvQXHokmtIUXycNBEBJwfe0XWraRZm6bQ3l\nySw94W1JHp8+HF1+c0QIYJUIZ4MIR53f4DPMwLooHDY33MnxSpqfJ1lvAoGBAIWz\nWNO+rXAu5FzWpAbvZP6CEBZQCjPIqZ9N+J6ZgN8SDvlwrEnofW1dTOBr8xpkthaR\nvD1HIoxM1lbYrkUCNvioM3srQ34ltCTqXYpGvtDHS25CzupRx61bIhhxvSBbMY/M\nzDLuAZpLf7tjbc9tpKRCrkkMXsF6+eVYdeCU2muBAoGBAJxVI5Xc0MACYMna61fD\ni31oJWr1S89qFUOz0jaY/COp41+CQd4XfzCkI5RJxefHsrns3QZydjNClE+4EgoG\nBAfuS4RtFJqih9t5vPolZTIpoewztcTYInqX7iPtcvDwT85SheZ8TkuC9UsAfGjR\ngp9IXxyuFZTIvmtOmcMuHfVQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "design-interiores-vision-api@design-interiores.iam.gserviceaccount.com",
+  "client_id": "101963905485165821462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/design-interiores-vision-api%40design-interiores.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
